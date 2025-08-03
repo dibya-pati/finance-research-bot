@@ -1,0 +1,16 @@
+# Core dependencies
+langchain-core>=0.1.0
+langgraph>=0.0.30
+langchain-google-genai>=0.0.8
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+yfinance>=0.2.36
+newspaper3k>=0.2.8
+ddgs>=1.0.7
+
+# Logging
+
+# (Optional) For better logging formatting, but stdlib logging is used
+
+# If you use Jupyter for testing
+# jupyter
