@@ -11,8 +11,8 @@ A web-based research assistant for stock analysis and report generation.
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
-cd fundametal-research-agentic
+git clone https://github.com/dibya-pati/finance-research-bot.git
+cd finance-research-bot
 ```
 
 ### 2. Install Python Dependencies
